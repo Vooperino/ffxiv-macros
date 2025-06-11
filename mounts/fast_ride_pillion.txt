@@ -1,0 +1,8 @@
+/macroerror off
+/ridepillion <2>
+/ridepillion <3>
+/ridepillion <4>
+/ridepillion <5>
+/ridepillion <6>
+/ridepillion <7>
+/ridepillion <8>
